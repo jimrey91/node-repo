@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/jimrey91/js#readme",
   "dependencies": {
-    "lodash": "^4.17.4"
+    "https": "^1.0.0",
+    "lodash": "^4.17.4",
+    "request": "^2.83.0",
+    "yargs": "^10.0.3"
   }
 }
