@@ -18,7 +18,9 @@
   "homepage": "https://github.com/jimrey91/js#readme",
   "dependencies": {
     "express": "^4.16.2",
+    "hbs": "^4.0.1",
     "https": "^1.0.0",
+    "hub": "^6.1.2",
     "lodash": "^4.17.4",
     "node-fetch": "^1.7.3",
     "pug": "^2.0.0-rc.4",
